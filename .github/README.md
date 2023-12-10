@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Dmytro Rudin
+- 👀 I’m interested in Cloud Infrastructure 
+- 🌱 I’m currently learning Python
